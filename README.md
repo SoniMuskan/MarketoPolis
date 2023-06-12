@@ -1,8 +1,9 @@
 # MarketoPolis
-![1920-1](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/fe72e9a4-96fc-4034-8fc1-892d50de9714)
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/5f70e048-5fff-4f87-a01b-ff10a5920616)
+
 
 The project was built as a part of the “Investor Awareness Hackathon 2023”. An educated investor is an asset to the Nation. In this purview, SEBI has always taken measures to increase securities market awareness amongst the investors. This era of digitization and involvement of artificial intelligence (AI) in each and every sphere, calls for looking at different innovative ways to spread information amongst investors and for identifying new ways of creating investor awareness.
-Link to the project: [MarketoPolis](http:/.com/)
+
 
 ## Vision
 “Investor Awareness Hackathon 2023” is an open competition for thousands of enthusiasts who seek to disrupt the current method of disseminating investor awareness amongst investors. The objective of this project is to look forward to various innovative mechanisms through which the investors can be made aware and educated to handle their personal finances responsibly and invest with knowledge.
@@ -11,7 +12,8 @@ Link to the project: [MarketoPolis](http:/.com/)
 The theme of the project is “Informed and Educated Investor”. The developed tool, mechanism or idea should facilitate in infusing the securities market awareness amongst the general public with wider reach in cost effective manner.
 
 ## Problem Statement – Incubating rational investment behavior amongst investors using AI/technology.
-![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/6c074633-09a2-441b-9d87-b3b21388fb98)
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/4e471573-71d9-440a-9fa3-abc9749fb376)
+
 * **In general Scenario, we have accountants if one need to invest in any company or stock market who analyses the market situation and accordingly suggest people to invest in respective company but think…… 
 If we have a software for the same which with the help of technology and ongoing market situation assist general people who have not much knowledge about investment.**
 * **Now, It’s a thing to ponder about...
@@ -20,20 +22,21 @@ How will It Change Scenarios For Our Investors??**
 ## Solution 
 |          |            |           
 |----------|------------|
-|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/fd5ee223-0706-4620-94b0-141be9c41581)|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/a070caba-2253-4d92-9ea8-a081b765f744)|
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/e7d50afe-d9f7-451f-ab13-06788a6e009b)
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/a0c267be-bc0c-4b7e-a0ae-11108db0baf8)
 
-![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/33bc42c9-729c-4799-87bb-57ac369c4ff6)
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/81377408-5acf-41f1-8242-d34d32cc3ac1)
+
 
 ## Advantages
 
 |          |            |           |
 |----------|------------|-----------|
-|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/f8221f18-37aa-4e10-96b6-dfc04fe75fd2) | ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/ca32bfa5-af36-4eb4-8519-c12764ae0182) | ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/6997958b-6776-4230-a9d0-817f11fcc9d3)|
-|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/605b9f88-a549-4be8-9bbc-5198a83f854b) | ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/b03c486c-72ff-4cfc-919e-4625bd052bf9) |![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/5786cc8b-b08c-4007-8b75-592514d50efe) |
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/c3635316-8524-4e95-bf36-ec357f4d2f22)
 
 ## Competitive Analysis
 ### So…What makes the MarketoPolis different?
-.![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/2881dd60-f40b-4b09-8a57-bba1ba454b97)
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/9d4e2556-2c7f-41ca-8f7b-3c0107eaa209)
 
 ## Future Scope
 * Systematic alerts about growing or degrading market.
@@ -42,11 +45,12 @@ How will It Change Scenarios For Our Investors??**
 
 
 # Features Implemented
-1. 
+1.
 
 # Tech Stack
 <p align ="center">
-  ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/ff9a92be-0eb4-4481-b3f6-632a5bfdf851)
+  ![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/0a2af6cf-9af0-489c-ad81-92832e244e24)
+
 
 </p>
 
@@ -114,4 +118,4 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
 
-
+Test : 905
