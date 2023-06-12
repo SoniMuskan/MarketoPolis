@@ -25,7 +25,7 @@ How will It Change Scenarios For Our Investors??**
 ![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/e7d50afe-d9f7-451f-ab13-06788a6e009b)
 ![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/a0c267be-bc0c-4b7e-a0ae-11108db0baf8)
 
-![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/81377408-5acf-41f1-8242-d34d32cc3ac1)
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/2fd54ab0-5fa4-4a46-bb6f-2bedacb6f50c)
 
 
 ## Advantages
@@ -36,7 +36,7 @@ How will It Change Scenarios For Our Investors??**
 
 ## Competitive Analysis
 ### So…What makes the MarketoPolis different?
-![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/9d4e2556-2c7f-41ca-8f7b-3c0107eaa209)
+![image](https://github.com/SoniMuskan/MarketoPolis_NISM_Project/assets/123022636/46017887-4c6c-443b-a7b8-b5e59566e758)
 
 ## Future Scope
 * Systematic alerts about growing or degrading market.
